@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:41:48.133Z",
+  "generatedAt": "2026-08-26T16:15:44.827Z",
   "app": {
     "name": "Solius",
     "appleId": "6762333424",
@@ -27,12 +27,100 @@
     }
   },
   "counts": {
-    "written": 4,
-    "writtenApple": 0,
+    "written": 33,
+    "writtenApple": 29,
     "writtenGoogle": 4
   },
   "errors": [],
   "reviews": [
+    {
+      "id": "apple-14338700587",
+      "source": "App Store",
+      "author": "AGM1517",
+      "rating": 5,
+      "title": "So Simple",
+      "content": "Just tried this out for the first time and it took less than a minute for set up and app download. The steps were laid out so clearly in the app that I had the UVB treatment one minute later. This is a game changer!",
+      "date": "2026-07-23T07:39:23-07:00",
+      "version": "1.1",
+      "country": "us"
+    },
+    {
+      "id": "apple-14334856315",
+      "source": "App Store",
+      "author": "ekv81",
+      "rating": 5,
+      "title": "Worked for my eczema",
+      "content": "Been battling eczema on my elbows for my entire life. Using the Solius device daily for a few weeks not only cleared it up but, made it less itchy / irritable.",
+      "date": "2026-07-22T08:42:39-07:00",
+      "version": "1.1",
+      "country": "us"
+    },
+    {
+      "id": "apple-14245717733",
+      "source": "App Store",
+      "author": "Mark Kaltenbach",
+      "rating": 5,
+      "title": "Review Shout",
+      "content": "Highly recommend!!! What a wonderful app… So easy to use and navigate. Great stuff!!!",
+      "date": "2026-06-30T09:01:26-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14242510365",
+      "source": "App Store",
+      "author": "User73738559",
+      "rating": 5,
+      "title": "Greay App!",
+      "content": "Super soothly working app, easy connecting to the device! Design is great, love it!",
+      "date": "2026-06-29T14:25:21-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14231857073",
+      "source": "App Store",
+      "author": "daredevilgene",
+      "rating": 5,
+      "title": "Can’t Wait!",
+      "content": "Although I don’t have the Solius, yet, I’ve been familiarizing myself with the app in anticipation. User friendly and plain ol’ easy.",
+      "date": "2026-06-27T00:59:16-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14199015528",
+      "source": "App Store",
+      "author": "Chrissy Kris",
+      "rating": 5,
+      "title": "Impressive!",
+      "content": "Really impressed by the experience so far. The personalized approach and app integration make the technology feel approachable, and the educational content does a great job explaining the science behind i",
+      "date": "2026-06-18T15:22:22-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14198522814",
+      "source": "App Store",
+      "author": "Bone tom",
+      "rating": 5,
+      "title": "Love this product",
+      "content": "Just did my first treatment plan so easy very simple the app walk you through it painless and effective",
+      "date": "2026-06-18T12:23:11-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14195013618",
+      "source": "App Store",
+      "author": "AOG34",
+      "rating": 5,
+      "title": "Game changer",
+      "content": "I’ve been using Solius consistently, and it’s become one of those habits that just fits naturally into my routine. It’s incredibility easy to use, the app makes everything straightforward, and I genuinely notice improvements in my mood, energy, overall sense of well being. Excited to keep using it and see how the benefits continue to compound over time.",
+      "date": "2026-06-17T14:41:24-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
     {
       "id": "google-1630ae3b-0869-40b5-b09b-3d478b627d8c",
       "source": "Google Play",
@@ -42,6 +130,17 @@
       "content": "Solius is a great product! I'm so excited to use this targeted light therapy to help with vitamin D deficiency. The app was easy to install and set up.",
       "date": "2026-06-17T04:07:06.880Z",
       "version": null,
+      "country": "us"
+    },
+    {
+      "id": "apple-14191870114",
+      "source": "App Store",
+      "author": "MSM.MD",
+      "rating": 5,
+      "title": "Great technology",
+      "content": "All the benefits of sunlight without the risks. Ingenious.",
+      "date": "2026-06-16T19:53:01-07:00",
+      "version": "1.0",
       "country": "us"
     },
     {
@@ -56,6 +155,138 @@
       "country": "us"
     },
     {
+      "id": "apple-14191437509",
+      "source": "App Store",
+      "author": "Drearms",
+      "rating": 5,
+      "title": "Best decision ever",
+      "content": "Works wonders!!",
+      "date": "2026-06-16T17:08:00-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14191367543",
+      "source": "App Store",
+      "author": "Duckfeet2011",
+      "rating": 5,
+      "title": "Easy Set Up!",
+      "content": "Excellent app! The set up process was quick thanks to the clear instructions, and the app is incredibly user-friendly. Slick design too!",
+      "date": "2026-06-16T16:40:36-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14190310162",
+      "source": "App Store",
+      "author": "Elislissa56",
+      "rating": 5,
+      "title": "Great device!",
+      "content": "The app works as a remote control for my Solius device. It provides very clear instructions for users, and I love it. The device helps me feel better, especially during long winter ❄️",
+      "date": "2026-06-16T10:35:13-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14189863017",
+      "source": "App Store",
+      "author": "Anna Yates",
+      "rating": 5,
+      "title": "Easy and essential",
+      "content": "Huge fan. Simple, smart, and genuinely useful. Vitamin D is so important. Feels like a better option than relying on inconsistent sunlight/sun damage or wondering if supplements are actually doing enough, if anything.",
+      "date": "2026-06-16T08:18:58-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14184414969",
+      "source": "App Store",
+      "author": "Kelpiesec",
+      "rating": 5,
+      "title": "Therapy, the way nature intended.",
+      "content": "Finally, a targeted, natural approach to supporting my skin health and hormone balance. Unlike traditional vitamin D supplements, which bypass the body’s natural production process, targeted light therapy works with the body’s own mechanisms to promote vitamin D synthesis as your body is supposed to function. It allows me to experience the benefits without the risk of sunburn, prolonged sun exposure, or spending time in uncomfortable heat.",
+      "date": "2026-06-14T22:16:36-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14183783370",
+      "source": "App Store",
+      "author": "EDH39",
+      "rating": 5,
+      "title": "Amazing Tecnology",
+      "content": "The Solius Pro is so incredibly easy to set up and use. Its effect on the body’s health and well being is off-scale. I’m very impressed!",
+      "date": "2026-06-14T17:48:00-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14180414020",
+      "source": "App Store",
+      "author": "JLL550",
+      "rating": 5,
+      "title": "Vitamin D here we come",
+      "content": "This is a revolutionary UVB light therapy device for Vitamin D production.",
+      "date": "2026-06-13T21:29:05-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14179887305",
+      "source": "App Store",
+      "author": "Mel F",
+      "rating": 5,
+      "title": "Great user experience",
+      "content": "I’m excited to use Solius weekly, the app is very well done!",
+      "date": "2026-06-13T17:56:19-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14179667657",
+      "source": "App Store",
+      "author": "CCPTink",
+      "rating": 5,
+      "title": "A miraculous invention!",
+      "content": "The Solius device and app are super easy to use and it only takes a few minutes a week to maintain Vitamin D (and countless other bio markers) within a healthy range. My mood has improved and knowing I’m getting virtually no harmful radiation makes using it a no-brainer. The app is simple to navigate and tracks my sessions seamlessly. SOLIUS for the win!",
+      "date": "2026-06-13T16:28:10-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14179613052",
+      "source": "App Store",
+      "author": "HYL552",
+      "rating": 5,
+      "title": "Exciting new health technology",
+      "content": "Happy to try this new UVB device for vitamin D boost.",
+      "date": "2026-06-13T16:06:40-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14179104764",
+      "source": "App Store",
+      "author": "CM 41",
+      "rating": 5,
+      "title": "Game changing tech",
+      "content": "30 years practicing orthopedics and I’ve never seen a treatment for osteoporosis that will be so impactful.",
+      "date": "2026-06-13T12:57:39-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14178760292",
+      "source": "App Store",
+      "author": "MSL1552",
+      "rating": 5,
+      "title": "Personalized Wellness, and Easy to Use",
+      "content": "UVB light therapy device smart enough to analyze your individual skin tone and deliver benefits tailored specifically to you. Easy to use app, with clear instructions.",
+      "date": "2026-06-13T11:01:59-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
       "id": "google-ee93117e-f10a-42bb-8088-d7eada5e2844",
       "source": "Google Play",
       "author": "Cesar Castillo",
@@ -64,6 +295,94 @@
       "content": "amazing technology! Vitamin D is so important! highly recommend!",
       "date": "2026-06-13T17:38:25.281Z",
       "version": "1.2",
+      "country": "us"
+    },
+    {
+      "id": "apple-14178233551",
+      "source": "App Store",
+      "author": "PDC-71",
+      "rating": 5,
+      "title": "Amazing app and device",
+      "content": "The device is revolutionary and the app is very user friendly.",
+      "date": "2026-06-13T08:20:28-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14177402093",
+      "source": "App Store",
+      "author": "Ricsie1",
+      "rating": 5,
+      "title": "Easy to use",
+      "content": "It’s amazing that Solius can dose the sun!",
+      "date": "2026-06-13T04:00:34-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14175054266",
+      "source": "App Store",
+      "author": "ConsumerAl",
+      "rating": 5,
+      "title": "Unbelievable",
+      "content": "Very easy to use.",
+      "date": "2026-06-12T12:22:43-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14173746535",
+      "source": "App Store",
+      "author": "Chestnut1122",
+      "rating": 5,
+      "title": "Great app, love the details",
+      "content": "Clean interface and easy to use. Works great with Solius device. Extra bonus: love the illustrations",
+      "date": "2026-06-12T06:01:59-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14173471148",
+      "source": "App Store",
+      "author": "dmg6234",
+      "rating": 5,
+      "title": "Wonderful Device",
+      "content": "I’ve been using the device and already I’m feeling the positive effects resulting from use! I just feel better - my winter blues are fading away… STRONGLY RECOMMEND!",
+      "date": "2026-06-12T04:32:28-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14172550061",
+      "source": "App Store",
+      "author": "retriever@125",
+      "rating": 5,
+      "title": "First therapy success!",
+      "content": "Solius is so easy to use and fast. The app works great and I’m so excited for the health benefits. I feel very safe using the system with all of the built-in safety features.",
+      "date": "2026-06-11T21:49:35-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14171924355",
+      "source": "App Store",
+      "author": "ecrit",
+      "rating": 5,
+      "title": "Easy Set Up!",
+      "content": "Super easy to set up the app and device. Provides great information about treatments.",
+      "date": "2026-06-11T17:28:57-07:00",
+      "version": "1.0",
+      "country": "us"
+    },
+    {
+      "id": "apple-14169844611",
+      "source": "App Store",
+      "author": "MRSTS1",
+      "rating": 5,
+      "title": "Wellness must have",
+      "content": "App is sleek and user friendly. Love the flow. Works great as the remote and companion app for the Solius device.",
+      "date": "2026-06-11T06:09:19-07:00",
+      "version": "1.0",
       "country": "us"
     },
     {

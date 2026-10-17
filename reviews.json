@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-17T05:52:54.164Z",
+  "generatedAt": "2026-10-17T10:08:35.630Z",
   "app": {
     "name": "Solius",
     "appleId": "6762333424",
     "googlePackage": "com.solius.lighttherapy"
   },
   "aggregate": {
-    "totalRatings": 76,
+    "totalRatings": 75,
     "averageRating": 5,
     "apple": {
-      "ratingCount": 71,
+      "ratingCount": 70,
       "average": 5,
       "storeUrl": "https://apps.apple.com/us/app/solius/id6762333424?uo=4"
     },
